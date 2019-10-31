@@ -7,7 +7,7 @@ Added Rain splash to the rain drops.
 
 I thank Daniel Shiffman for his contribution.
 
-@misc{Charles2013,
+@misc{
   author = {Daniel Shiffman},
   title = {PurpleRain},
   year = {2019},
