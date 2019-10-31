@@ -7,15 +7,15 @@ Rain Simulator using p5.js an extension to Coding Train's Purple Rain
 
 I thank Daniel Shiffman for his contribution.
 
-@misc{
-  author = {Daniel Shiffman},
-  title = {PurpleRain},
-  year = {2019},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_004_PurpleRain
-}}
-}
+<br>@misc{
+<br>  author = {Daniel Shiffman},
+<br>  title = {PurpleRain},
+<br>  year = {2019},
+<br>  publisher = {GitHub},
+<br>  journal = {GitHub repository},
+<br>  howpublished = {\url{https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_004_PurpleRain
+<br>}}
+<br>}
 
 
 
