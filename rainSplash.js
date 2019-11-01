@@ -6,7 +6,7 @@ splashDrop = function(x,y) {
   this.show = function(){
      circle(random(
               this.x-this.splashRadius,this.x+this.splashRadius), 
-            random(this.y-this.splashRadius,this.y+this.splashRadius),
+            random(this.y-this.splashRadius,this.y),
             3);
   }
 }
